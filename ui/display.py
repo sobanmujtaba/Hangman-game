@@ -1,5 +1,5 @@
 def show_intro():
-    print("Welcome to Hangman!\n")
+    print("Welcome to Hangman!\nI have been here the whole time\n")
     
 
 def choose_category(categories):
